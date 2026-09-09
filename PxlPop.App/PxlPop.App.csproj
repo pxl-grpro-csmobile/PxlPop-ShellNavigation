@@ -75,10 +75,4 @@
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="10.0.11" />
 	</ItemGroup>
 
-	<ItemGroup>
-	  <Compile Update="Pages\SettingsPage.xaml.cs">
-	    <DependentUpon>SettingsPage.xaml</DependentUpon>
-	  </Compile>
-	</ItemGroup>
-
 </Project>

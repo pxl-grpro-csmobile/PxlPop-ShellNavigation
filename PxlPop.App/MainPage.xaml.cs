@@ -42,8 +42,8 @@ namespace PxlPop.App
         private async void OnPageLoaded(object sender, EventArgs e)
         {
             await Task.WhenAny(
-                pxlLogo.FadeTo(1, 3000),
-                pxlLogo.RotateTo(360, 3000));
+                pxlLogo.FadeToAsync(1, 3000),
+                pxlLogo.RotateToAsync(360, 3000));
         }
     }
 
