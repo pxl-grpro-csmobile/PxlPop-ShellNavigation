@@ -1,6 +1,6 @@
 # PxlPop
 ## Intro
-In de [vorige opdracht](https://github.com/PXL-CSMobile/PxlPop-CollectionView) werden de nodige CollectionViews geïmplementeerd. In deze opdracht zullen Shell navigatie toevoegen via een Flyout en tabs.
+In de [vorige opdracht](https://github.com/pxl-grpro-csmobile/PxlPop-CollectionView) werden de nodige CollectionViews geïmplementeerd. In deze opdracht zullen Shell navigatie toevoegen via een Flyout en tabs.
 
 ## AppShell
 - Vervang de Buttons in de MainPage door een Flyout

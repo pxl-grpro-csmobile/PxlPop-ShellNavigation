@@ -29,9 +29,9 @@ namespace PxlPop.App
             await Shell.Current.GoToAsync(nameof(TicketPage), true);
         }
 
-        private async void OnAccountClicked(object sender, EventArgs e)
+        private async void OnSettingsClicked(object sender, EventArgs e)
         {
-            await Shell.Current.GoToAsync(nameof(AccountPage), true);
+            await Shell.Current.GoToAsync(nameof(SettingsPage), true);
         }
 
         private async void OnFavouritesClicked(object sender, EventArgs e)
