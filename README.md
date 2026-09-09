@@ -21,6 +21,8 @@ In de [vorige opdracht](https://github.com/pxl-grpro-csmobile/PxlPop-CollectionV
 ## MainPage
 - Verberg de bestaande Buttons
 
+<img src="media/main.png" height="600">
+
 ## LessonPage
 - Maak een nieuwe ContentPage aan: LessonPage
 - Voeg een Label toe: descriptionLabel
